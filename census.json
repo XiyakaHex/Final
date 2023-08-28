@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6118fdf7dda011305494474a"
+  },
+  "num_in_household": "3",
+  "street_ad": "325 Jason Street",
+  "city": "Santa Fe",
+  "state": "NM",
+  "zip": "85481",
+  "census_year": "2022",
+  "census_user": "Nira MadLab"
+},{
+  "_id": {
+    "$oid": "6118fdf7dda011307788774a"
+  },
+  "num_in_household": "1",
+  "street_ad": "736 Penumbra Ave.",
+  "city": "Mesa",
+  "state": "AZ",
+  "zip": "88471",
+  "census_year": "2022",
+  "census_user": "Nio MadLab"
+}]
